@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParthSabale
 - 👀 I’m interested in ML-AI/DS & Robotics
-- 🌱 I’m currently learning Robotics Engneering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m studying learning Robotics Engneering
+- 💞️ I’m looking to collaborate on ML & Cloud Based Project
 - 📫 How to reach me LinkedIn 
 
 <!---
