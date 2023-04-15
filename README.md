@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Assisted-Farming](https://github.com/ParthSabale/AI-Assisted-Farming.git)
+- 🔭 I’m currently working on [Auto Aimming Turret]
 
 - 🌱 I’m currently learning **Deep Learning, ANN, CNN.**
 
