@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Auto Aimming Turret]
 
-- 🌱 I’m currently learning **Deep Learning, ANN, CNN.**
+- 🌱 I’m currently learning **Deep Learning, ANN.**
 
-- 💬 Ask me about **ML, Robotics, Finance & Business Analyst**
+- 💬 Ask me about **ML,CV & Robotics**
 
 - 📫 How to reach me **sabale.parth27@gmail.com**
 
-- ⚡ Fun fact **I am INTJ Personality Type**
+- ⚡ Amazing fact **Robots will be to this century what computers were to the last**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
